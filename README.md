@@ -8,7 +8,7 @@ Also, with Migrator you will be able to use a feature called "Safe Migrate" whic
 
 To install Migrator you can execute this command:
 ```bash
-composer require rezaamini-ir/migrator
+composer require nowodev/migrator
 ```
 
 Then you will access to `/migrator` route.

@@ -157,6 +157,6 @@
     </div>
 
     <div class="mt-12 mb-4 text-center font-light text-xs text-gray-700">
-        <a class="text-decoration-none text-indigo-500" target="_blank" href="https://github.com/rezaamini-ir/migrator">Migrator</a> is a GUI migration manager for Laravel.
+        <a class="text-decoration-none text-indigo-500" target="_blank" href="https://github.com/nowodev/migrator">Migrator</a> is a GUI migration manager for Laravel.
     </div>
 </div>
